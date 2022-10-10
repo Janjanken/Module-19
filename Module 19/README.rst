@@ -1,4 +1,4 @@
-ITE 306 Module 19 Alcantara
+ITE 306 Module 19 Bercasio
 ===========================
 
 Web Framework using Python Flask
@@ -79,7 +79,7 @@ The Output would be:
     Press CTRL+C to quit
 
 * copy the URL http://127.0.0.1:5000/ and paste it in your preferred browser tab
-.. _myflask.py: https://github.com/JkAlcntr/ITE-MODULE-19-ALCANTARA/blob/main/myflask1.py
+.. _myflask.py: https://github.com/Jajanken/ITE-MODULE-19-BERCASIO/blob/main/myflask1.py
 Step 2. TRY 
 -----------
 Now try this
@@ -113,7 +113,7 @@ Step 3. Open login.html file in your selected browser
 
 Step 4. Enter name 
 
-.. image:: https://github.com/JkAlcntr/ITE-MODULE-19-ALCANTARA/blob/main/Capture.PNG
+.. image:: https://github.com/Jajanken/ITE-MODULE-19-BERCASIO/blob/main/Capture.PNG
 
 Step 5. Click Submit
 
@@ -121,7 +121,7 @@ Output will show:
 
 .. code-block:: text
 
-   Welcome John
+   Welcome Warren
 
 
 
